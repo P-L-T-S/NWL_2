@@ -4,6 +4,11 @@
     <img src="./public/images/proffy.png"/>
 </h1>
 
+## Índece:
+- [Sobre](#-sobre)
+- [Ferramentas utilizadas](#-ferramentas-utilizadas)
+- [Desafios](#-desafios)
+
 ## 📌 Sobre:
 
 A plataforma **Proffy** foi criada durante o evento da **Rocketseat**, a Next Level Week, ou como chamamos carinhosamente: A **NLW**.<br><br>
@@ -29,6 +34,7 @@ ___
 - **SQLite;**
 - **Nodemon**
 
+---
 
 ## ⚙️ Desafios: 
 
